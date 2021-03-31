@@ -17,4 +17,4 @@
 - The key principles of Australia's justice system, including equality before the law independent judiciary and right of appeal
 
 
-[![IMAGE ALT TEXT](https://imgur.com/tQX0vAh)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "Video Title")
