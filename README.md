@@ -9,7 +9,7 @@
 
 ## Topics to review
 
-- The role of political parties, and independent representatives in Austral's system of government, including the formation of governments
+- The role of political parties, and independent representatives in Australia's system of government, including the formation of governments
 - How citizen's choice are shaped at election time (e.g, public debates, opinion polls, advertising, in interest groups, political party campaigns)
 - How citizen's choices are shaped at election time (e.g public debate, opinion polls, advertising, interest groups, political party campaigns)
 - The key features of Australia's court system and the role of a particular court (eg, a supreme court, a magistrates' court the family court of Australia) and the types of cases different courts here
