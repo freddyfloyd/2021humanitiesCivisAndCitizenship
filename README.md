@@ -16,3 +16,5 @@
 - How courts apply and interpret the law, resolve disputes, and make law through judgements (eg the role of precedents)
 - The key principles of Australia's justice system, including equality before the law independent judiciary and right of appeal
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
