@@ -3,7 +3,7 @@
 
 
 
-#Australia's Electoral System
+# Australia's Electoral System
 
 ## The Senate:
 - The Senate is one of the two houses of the federal Parliament, often referred to as the *red* house.
